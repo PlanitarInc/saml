@@ -1,4 +1,4 @@
-module github.com/crewjam/saml
+module github.com/PlanitarInc/saml
 
 go 1.13
 
